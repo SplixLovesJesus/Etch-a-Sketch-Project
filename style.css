@@ -34,6 +34,18 @@ button {
   border-radius: 5px;
 }
 
+#btn:hover,
+#btn2:hover,
+#btn3:hover,
+#btn4:hover,
+#btn5:hover {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding: 5px 20px;
+  background-color: rgb(246, 246, 246);
+  border-radius: 5px;
+}
+
 #btn:active,
 #btn2:active,
 #btn3:active,
